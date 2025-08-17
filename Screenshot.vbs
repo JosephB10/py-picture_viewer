@@ -1,0 +1,1 @@
+CreateObject("WScript.Shell").Run "E:\Python_G\Screenshot\Screenshot.bat",0,False
